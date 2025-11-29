@@ -114,6 +114,8 @@ npm start
 Server runs at:
 👉 **[http://localhost:4000](http://localhost:4000)**
 
+Swagger Server runs at:
+👉 **[Swagger Docs](http://localhost:4000/api-docs/#/)**
 ---
 
 ## 📌 **API Endpoints**
@@ -319,8 +321,5 @@ Example:
 All sample data above follows this workflow.
 
 ---
-
-
-
-I’ll generate everything.
-**
+### Swagger outcome at my end.
+<img width="1867" height="794" alt="image" src="https://github.com/user-attachments/assets/a28b52fd-c606-4785-8ba1-e791ab732319" />
